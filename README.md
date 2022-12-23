@@ -1,8 +1,8 @@
-# aniketdsalve.github.io
-Welocome!
+# Aniket Salve - aniketdsalve.github.io
+Welocome!!
 
 ## Find out My Simple HTML CSS Projects Here
-Source files https://github.com/aniketdsalve/aniketdsalve.github.io/edit/main/README.md
+Source files - https://github.com/aniketdsalve/aniketdsalve.github.io
  
   
 ## Find out My Angular Projects Here
