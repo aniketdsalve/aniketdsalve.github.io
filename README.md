@@ -1,9 +1,9 @@
-# Praveenmp.github.io
+# aniketdsalve.github.io
 Welocome!
 
-## Find out My React Js Projects Here
- Playnine is a samll Game built on React JS.
- Play the Game here : https://praveenmp.github.io/playnine
+## Find out My Simple HTML CSS Projects Here
+Source files https://github.com/aniketdsalve/aniketdsalve.github.io/edit/main/README.md
+ 
   
 ## Find out My Angular Projects Here
  ### Check out the weather in your city
